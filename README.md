@@ -1,4 +1,13 @@
 # CMakeTutorial
 CMakeTutorial</br>
-
 参考: https://qiita.com/shohirose/items/45fb49c6b429e8b204ac </br>
+
+[用語]</br>
+静的ライブラリ : lib[basename].a (Unix, macOS), *.lib (Windows)
+動的ライブラリ : lib[basename].so (Unix), lib[basename].dylib (macOS), *.dll (Windows) </br>
+
+1. g++_Build : g++によるビルド方法</br>
+2. g++_Build_Static_Lib_Link : g++による静的ライブラリの作成とソースファイルへのリンク方法</br>
+3. g++_Build_Dynamic_Lib_Link : g++による動的ライブラリの作成とソースファイルへのリンク方法</br>
+4. g++_Build_lib_link_real_project : 階層構造になったディレクトリにおけるビルド方法</br>
+
