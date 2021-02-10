@@ -3,7 +3,7 @@ CMakeTutorial</br>
 参考: https://qiita.com/shohirose/items/45fb49c6b429e8b204ac </br>
 
 [用語]</br>
-静的ライブラリ : lib[basename].a (Unix, macOS), *.lib (Windows)
+静的ライブラリ : lib[basename].a (Unix, macOS), *.lib (Windows) </br>
 動的ライブラリ : lib[basename].so (Unix), lib[basename].dylib (macOS), *.dll (Windows) </br>
 
 1. g++_Build : g++によるビルド方法</br>
