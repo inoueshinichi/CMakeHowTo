@@ -4,10 +4,6 @@ CMakeTutorial</br>
 
 Wikiに各種設定に関するページを作成して記載する.</br>
 
-[用語]</br>
-静的ライブラリ : lib[basename].a (Unix, macOS), *.lib (Windows) </br>
-動的ライブラリ : lib[basename].so (Unix), lib[basename].dylib (macOS), *.dll (Windows) </br>
-
 [gcc build order]</br>
 1. g++_Build : g++によるビルド方法</br>
 2. g++_Build_Static_Lib_Link : g++による静的ライブラリの作成とソースファイルへのリンク方法</br>
