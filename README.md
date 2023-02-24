@@ -7,6 +7,7 @@
 | GenExp | https://cmake.org/cmake/help/latest/manual/cmake-generator-expressions.7.html |
 | ToolChain | https://cmake.org/cmake/help/latest/manual/cmake-toolchains.7.html | 
 | ExecuteProcess | https://cmake.org/cmake/help/latest/command/execute_process.html |
+| Properties | https://cmake.org/cmake/help/v3.0/manual/cmake-properties.7.html |
 
 
 
