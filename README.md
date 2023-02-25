@@ -21,7 +21,7 @@
 | キャッシュ変数と環境変数 | https://qiita.com/mrk_21/items/186439952a6665184444 |
 | function(), macro() | https://qiita.com/mrk_21/items/9de14590d6c3a2473284 |
 | 変数のスコープ | https://qiita.com/mrk_21/items/e0639155cf7156a6d8b4 |
-| リスト | https://qiita.com/shohirose/items/d2b9c595a37b27ece607 |
+| リスト | https://qiita.com/mrk_21/items/082bae48a5ef2ac1564c |
 | ループ | https://qiita.com/mrk_21/items/f45736dcf418bd937efe |
 | 条件分岐 | https://qiita.com/mrk_21/items/49d8802dc63a2791bcc3 |
 | 便利なコマンド | https://qiita.com/mrk_21/items/5e7ca775b463a4141a58 |
