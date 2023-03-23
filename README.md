@@ -36,7 +36,7 @@
 | 概要 | URL |
 | :-- | :-- |
 | 第1回 基本(1) | https://theolizer.com/cpp-school3/cpp-school3-1/ |
-| 第2回 基本(2) | https://theolizer.com/cpp-school3/cpp-school3-2/ |
+| 第2回 コンフィグレーション | https://theolizer.com/cpp-school3/cpp-school3-2/ |
 
 
 Wikiに各種設定に関するページを作成して記載する.  
