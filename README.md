@@ -35,8 +35,12 @@
 ## 参考(Web-1)
 | 概要 | URL |
 | :-- | :-- |
-| 第1回 基本(1) | https://theolizer.com/cpp-school3/cpp-school3-1/ |
+| 第1回 基本 | https://theolizer.com/cpp-school3/cpp-school3-1/ |
 | 第2回 コンフィグレーション | https://theolizer.com/cpp-school3/cpp-school3-2/ |
+| 第3回 ビルドターゲット | https://theolizer.com/cpp-school3/cpp-school3-3/ |
+| 第4回 依存関係 | https://theolizer.com/cpp-school3/cpp-school3-4/ |
+| 第5回 CMake変数 | https://theolizer.com/cpp-school3/cpp-school3-5/ |
+
 
 
 Wikiに各種設定に関するページを作成して記載する.  
