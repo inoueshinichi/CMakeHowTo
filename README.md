@@ -44,6 +44,11 @@
 | :-- | :-- |
 | find_package | https://qiita.com/tchofu/items/69dacfb93908525e5b0b | 
 
+## 参考(Qiita-4)
+| 概要 | URL |
+| :-- | :-- |
+| CMake Script | https://qiita.com/shohirose/items/5b406f060cd5557814e9 | 
+
 
 ## 参考(Web-1)
 | 概要 | URL |
