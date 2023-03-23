@@ -40,6 +40,8 @@
 | 第3回 ビルドターゲット | https://theolizer.com/cpp-school3/cpp-school3-3/ |
 | 第4回 依存関係 | https://theolizer.com/cpp-school3/cpp-school3-4/ |
 | 第5回 文字列変数 | https://theolizer.com/cpp-school3/cpp-school3-5/ |
+| 第6回 CMake変数 | https://theolizer.com/cpp-school3/cpp-school3-6/ |
+
 
 
 
