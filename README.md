@@ -9,9 +9,6 @@
 | ExecuteProcess | https://cmake.org/cmake/help/latest/command/execute_process.html |
 | Properties | https://cmake.org/cmake/help/v3.0/manual/cmake-properties.7.html |
 
-
-
-
 ## 参考(Qiita)
 | 概要 | URL |
 | :-- | :-- |
@@ -34,6 +31,11 @@
 | ポリシー | https://qiita.com/mrk_21/items/7c406e28d4730d1364cd | 
 | CTest | https://qiita.com/mrk_21/items/25ee7f00cebb9934b472 |
 | AppleSilicon版macOSで開発する際の注意点 | https://qiita.com/mktshhr/items/c8048b328af6be90f68e |
+
+## 参考(Web-1)
+| :-- | :-- |
+| 第1回 基本(1) | https://theolizer.com/cpp-school3/cpp-school3-1/ |
+| 第2回 基本(2) | https://theolizer.com/cpp-school3/cpp-school3-2/ |
 
 
 Wikiに各種設定に関するページを作成して記載する.  
