@@ -59,6 +59,11 @@
 | :-- | :-- |
 | Property | https://qiita.com/osamu0329/items/3b417f8934688fd186ba | 
 
+## 参考(Qiita-6)
+| 概要 | URL |
+| :-- | :-- |
+| Pre compiled header | https://qiita.com/ryutorion/items/50a0b2c60b826c7003a0 |
+
 ## 参考(Web-1)
 | 概要 | URL |
 | :-- | :-- |
