@@ -81,7 +81,16 @@
 | 第4回 依存関係 | https://theolizer.com/cpp-school3/cpp-school3-4/ |
 | 第5回 文字列変数 | https://theolizer.com/cpp-school3/cpp-school3-5/ |
 | 第6回 CMake変数 | https://theolizer.com/cpp-school3/cpp-school3-6/ |
-
+| 第7回 functionとmacro | https://theolizer.com/cpp-school3/cpp-school3-7/ |
+| 第8回 サブプロジェクトとdllファイル | https://theolizer.com/cpp-school3/cpp-school3-8/ |
+| 第9回 CMake変数のスコープ | https://theolizer.com/cpp-school3/cpp-school3-9/ |
+| 第10回 find_package | https://theolizer.com/cpp-school3/cpp-school3-10/ |
+| 第11回 configure_file | https://theolizer.com/cpp-school3/cpp-school3-11/ |
+| 第12回 ビルドモードとスクリプトモード | https://theolizer.com/cpp-school3/cpp-school3-12/ |
+| 第13回 fileコマンド(1) | https://theolizer.com/cpp-school3/cpp-school3-13/ |
+| 第14回 stringコマンドと正規表現 | https://theolizer.com/cpp-school3/cpp-school3-14/ |
+| 第15回 fileコマンド(2) | https://theolizer.com/cpp-school3/cpp-school3-15/ |
+| 第16回 まとめ(boostの利用) | https://theolizer.com/cpp-school3/cpp-school3-16/ |
 
 
 
