@@ -9,7 +9,7 @@
 | ExecuteProcess | https://cmake.org/cmake/help/latest/command/execute_process.html |
 | Properties | https://cmake.org/cmake/help/v3.0/manual/cmake-properties.7.html |
 
-## 参考(Qiita)
+## 参考(Qiita-1)
 | 概要 | URL |
 | :-- | :-- |
 | 基本(1) | https://qiita.com/shohirose/items/45fb49c6b429e8b204ac |
@@ -31,6 +31,19 @@
 | ポリシー | https://qiita.com/mrk_21/items/7c406e28d4730d1364cd | 
 | CTest | https://qiita.com/mrk_21/items/25ee7f00cebb9934b472 |
 | AppleSilicon版macOSで開発する際の注意点 | https://qiita.com/mktshhr/items/c8048b328af6be90f68e |
+
+## 参考(Qiita-2)
+| 概要 | URL |
+| :-- | :-- |
+| その1 | https://qiita.com/shohirose/items/45fb49c6b429e8b204ac |
+| その2 | https://qiita.com/shohirose/items/637f4b712893764a7ec1 |
+| その3 | https://qiita.com/shohirose/items/d2b9c595a37b27ece607 |
+
+## 参考(Qiita-3)
+| 概要 | URL |
+| :-- | :-- |
+| find_package | https://qiita.com/tchofu/items/69dacfb93908525e5b0b | 
+
 
 ## 参考(Web-1)
 | 概要 | URL |
