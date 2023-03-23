@@ -67,6 +67,14 @@
 ## 参考(Web-1)
 | 概要 | URL |
 | :-- | :-- |
+| 基本 | https://kamino.hatenablog.com/entry/cmake_tutorial1 |
+| プロジェクトの階層化 | https://kamino.hatenablog.com/entry/cmake_tutorial2 |
+| プロジェクト設定 | https://kamino.hatenablog.com/entry/cmake_tutorial3 |
+| 外部ライブラリの利用 | https://kamino.hatenablog.com/entry/cmake_tutorial4 |
+
+## 参考(Web-2)
+| 概要 | URL |
+| :-- | :-- |
 | 第1回 基本 | https://theolizer.com/cpp-school3/cpp-school3-1/ |
 | 第2回 コンフィグレーション | https://theolizer.com/cpp-school3/cpp-school3-2/ |
 | 第3回 ビルドターゲット | https://theolizer.com/cpp-school3/cpp-school3-3/ |
